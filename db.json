@@ -26,8 +26,33 @@
     }
   ],
   "pitstops": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {  
+      "id": "1",
+      "name": "Pitstop 1",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9
+    },
+    { 
+      "id": "2",
+      "name": "Pitstop 2",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2
+    },
+    {
+      "id": "3",
+      "name": "Pitstop 3",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1
+    }
   ],
   "profile":{
     "uid": 0,
