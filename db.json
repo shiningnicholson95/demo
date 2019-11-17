@@ -29,11 +29,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "uid": 0,
-    "name": "John Smith",
-    "img": "../assets/Images/person/person.png",
-    "URPoints": 123,
-    "URPointsWorth": 25
+  "profile":{
+    "name": "John Smith"
   }
 }
