@@ -32,6 +32,8 @@
   "profile":{
     "uid": 0,
     "name": "John Smith",
-    "img": "../assets/Images/person/person.png"
+    "img": "../assets/Images/person/person.png",
+    "URPoints": 123,
+    "URPointsWorth": 25
   }
 }
