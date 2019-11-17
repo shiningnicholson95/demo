@@ -30,6 +30,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile":{
+    "uid": 0
     "name": "John Smith"
   }
 }
