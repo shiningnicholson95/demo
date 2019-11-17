@@ -25,7 +25,7 @@
       "dimension": "9 X 50g"
     }
   ],
-  "comments": [
+  "pitstops": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
