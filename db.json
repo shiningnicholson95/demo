@@ -64,15 +64,21 @@
   "posts":[
     {
       "id": 1,
-      "title": "Post 1"
+      "src": "../assets/Images/home-sale/home-sale.png",
+      "postTitle": "UR Lucky discount (Events),
+      "postDescriptions": "Come have a coffee and snack 30% off. There is a vending machine 200m away. Valid before 3:30pm"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "src": "../assets/Images/home-sale/home-sale.png",
+      "postTitle": "URKind Donations",
+      "postDescriptions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "src": "../assets/Images/home-sale/home-sale.png",
+      "postTitle": "UR coupon",
+      "postDescriptions": "Get coupon codes for popular branch. Terms and Conditions apply"
     }
   ]
 }
