@@ -1,4 +1,11 @@
 {
+  "userInfo":{
+    "uid": 0,
+    "name": "John Smith",
+    "img": "../assets/Images/person/person.png",
+    "URPoints": 123,
+    "URPointsWorth": 25,
+  },
   "products": [
     { "id": "1",
       "img": "../assets/Images/products/cheerios.png",
