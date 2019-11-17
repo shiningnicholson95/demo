@@ -31,6 +31,7 @@
   ],
   "profile":{
     "uid": 0,
-    "name": "John Smith"
+    "name": "John Smith",
+    "img": "../assets/Images/person/person.png"
   }
 }
