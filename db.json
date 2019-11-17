@@ -1,8 +1,29 @@
 {
   "products": [
-    { "id": 1, "name":"cheerios", "img": "../assets/Images/products/cheerios.png" },
-    { "id": 2, "name":"coke", "img": "../assets/Images/products/coke.png" },
-    { "id": 3, "name":"oreo", "img": "../assets/Images/products/oreo.png" }
+    { "id": "1",
+      "img": "../assets/Images/products/cheerios.png",
+      "name": "cheerios",
+      "price": 2,
+      "favourite": false,
+      "category": "Snacks",
+      "dimension": "6 X 15g" 
+    },
+    { "id": "2",
+      "img": "../assets/Images/products/coke.png",
+      "name": "coke",
+      "price": 3,
+      "favourite": false,
+      "category": "Energy Drinks",
+      "dimension": "3 X 100ml" 
+    },
+    { "id": "3",
+      "img": "../assets/Images/products/oreo.png",
+      "name": "oreo",
+      "price": 2,
+      "favourite": false,
+      "category": "Snacks",
+      "dimension": "9 X 50g"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
