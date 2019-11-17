@@ -62,11 +62,6 @@
     "URPointsWorth": 25
   },
   "posts":[
-    {
-      "id": 0,
-      "src": "../assets/Images/home-sale/home-sale.png",
-      "postTitle": "UR Lucky discount (Events)",
-      "postDescriptions": "Come have a coffee and snack 30% off. There is a vending machine 200m away. Valid before 3:30pm"
-    }
+    
   ]
 }
