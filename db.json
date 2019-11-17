@@ -1,8 +1,8 @@
 {
   "products": [
-    { "id": 1, "title": "post 1"},
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "post 1", "name":"cheerios" },
+    { "id": 2, "title": "Post 2", "name":"coke" },
+    { "id": 3, "title": "Post 3", "name":"water" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
