@@ -30,6 +30,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "uid": 0,
+    "name": "John Smith",
+    "img": "../assets/Images/person/person.png",
+    "URPoints": 123,
+    "URPointsWorth": 25
   }
 }
