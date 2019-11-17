@@ -1,31 +1,31 @@
 {
-  "products":[
+  "posts": [
     {
-      "id": "1",
-      "img": "../assets/Images/products/cheerios.png",
-      "name": "cheerios",
-      "price": 2,
-      "favourite": false,
-      "category": "Snacks",
-      "dimension": "6 X 15g",
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "id": "2",
-      "img": "../assets/Images/products/coke.png",
-      "name": "coke",
-      "price": 3,
-      "favourite": false,
-      "category": "Energy Drinks",
-      "dimension": "3 X 100ml",
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "id": "3",
-      "img": "../assets/Images/products/oreo.png",
-      "name": "oreo",
-      "price": 2,
-      "favourite": false,
-      "category": "Snacks",
-      "dimension": "9 X 50g",
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
