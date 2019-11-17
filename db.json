@@ -1,8 +1,8 @@
 {
   "products": [
-    { "id": 1, "name":"cheerios" },
-    { "id": 2, "name":"coke" },
-    { "id": 3, "name":"water" }
+    { "id": 1, "name":"cheerios", "img": "../assets/Images/products/cheerios.png" },
+    { "id": 2, "name":"coke", "img": "../assets/Images/products/coke.png" },
+    { "id": 3, "name":"oreo", "img": "../assets/Images/products/oreo.png" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
