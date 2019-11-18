@@ -9,7 +9,7 @@
       "dimension": "6 X 15g" 
     },
     { "id": "2",
-      "img": "../assets/Images/products/coke.png",
+      "img": "http://pngimg.com/uploads/cocacola/cocacola_PNG0.png",
       "name": "coke",
       "price": 3,
       "favourite": false,
@@ -17,7 +17,7 @@
       "dimension": "3 X 100ml" 
     },
     { "id": "3",
-      "img": "../assets/Images/products/oreo.png",
+      "img": "http://pluspng.com/img-png/oreo-png-hd-https-upload-wikimedia-org-wikipedia-en-9-97-oreo-cookie-logo-png-516.png",
       "name": "oreo",
       "price": 2,
       "favourite": false,
