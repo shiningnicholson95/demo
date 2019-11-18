@@ -1,7 +1,7 @@
 {
   "products": [
     { "id": "1",
-      "img": "../assets/Images/products/cheerios.png",
+      "img": "https://cdn.imgbin.com/25/4/22/imgbin-quaker-instant-oatmeal-breakfast-cereal-quaker-oats-company-nut-banana-k9MihuYEieRccH5ETZ9h9xD30.jpg",
       "name": "cheerios",
       "price": 2,
       "favourite": false,
