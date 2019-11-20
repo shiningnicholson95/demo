@@ -80,5 +80,27 @@
       "postTitle": "UR coupon",
       "postDescriptions": "Get coupon codes for popular branch. Terms and Conditions apply"
     }
-  ]
+  ],
+  "myCart":[
+    {
+      "id": "1",
+      "img": "https://cdn.imgbin.com/25/4/22/imgbin-quaker-instant-oatmeal-breakfast-cereal-quaker-oats-company-nut-banana-k9MihuYEieRccH5ETZ9h9xD30.jpg",
+      "name": "cheerios",
+      "price": 2,
+      "favourite": false,
+      "category": "Snacks",
+      "dimension": "6 X 15g",
+      "count": 2
+      
+    },
+    { "id": "3",
+      "img": "http://pluspng.com/img-png/oreo-png-hd-https-upload-wikimedia-org-wikipedia-en-9-97-oreo-cookie-logo-png-516.png",
+      "name": "oreo",
+      "price": 2,
+      "favourite": false,
+      "category": "Snacks",
+      "dimension": "9 X 50g",
+     "count": 5
+    }
+    ]
 }
