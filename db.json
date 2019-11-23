@@ -38,7 +38,7 @@
         "latitude": 51.4464267,
         "longitude": 0.1451849,
       },
-      "vendCoord": null,
+      "vendCoord": null
     },
     {
       "id": "2",
@@ -52,7 +52,7 @@
       "vendCoord": {
         "latitude": 51.5920205,
         "longitude": -0.4031434,
-      },
+      }
     },
     {
       "id": "3",
@@ -66,7 +66,7 @@
         "latitude": 51.4810829,
         "longitude": -0.1195776,
       },
-      "vendCoord": null,
+      "vendCoord": null
     }
   ],
   "profile":{
