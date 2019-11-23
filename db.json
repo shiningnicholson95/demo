@@ -36,7 +36,7 @@
       "dist": 1.9,
       "cubeCoord": {
         "latitude": 51.4464267,
-        "longitude": 0.1451849,
+        "longitude": 0.1451849
       },
       "vendCoord": null
     },
@@ -51,7 +51,7 @@
       "cubeCoord": null,
       "vendCoord": {
         "latitude": 51.5920205,
-        "longitude": -0.4031434,
+        "longitude": -0.4031434
       }
     },
     {
@@ -64,7 +64,7 @@
       "dist": 1,
       "cubeCoord": {
         "latitude": 51.4810829,
-        "longitude": -0.1195776,
+        "longitude": -0.1195776
       },
       "vendCoord": null
     }
