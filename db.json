@@ -67,6 +67,174 @@
         "longitude": -0.1195776
       },
       "vendCoord": null
+    },
+    {
+      "id": "4",
+      "name": "Pitstop 4",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.4484267,
+        "longitude": 0.1481849
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "5",
+      "name": "Pitstop 5",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5950205,
+        "longitude": -0.4021434
+      }
+    },
+    {
+      "id": "6",
+      "name": "Pitstop 6",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.4910829,
+        "longitude": -0.1095776
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "7",
+      "name": "Pitstop 7",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.4463267,
+        "longitude": 0.1452849
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "8",
+      "name": "Pitstop 8",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5921205,
+        "longitude": -0.4131434
+      }
+    },
+    {
+      "id": "9",
+      "name": "Pitstop 9",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.4890829,
+        "longitude": -0.1995776
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "10",
+      "name": "Pitstop 10",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.444267,
+        "longitude": 0.141849
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "11",
+      "name": "Pitstop 11",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5205205,
+        "longitude": -0.4531434
+      }
+    },
+    {
+      "id": "12",
+      "name": "Pitstop 12",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.48150829,
+        "longitude": -0.11955776
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "13",
+      "name": "Pitstop 13",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.4164267,
+        "longitude": 0.1051849
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "14",
+      "name": "Pitstop 14",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5900205,
+        "longitude": -0.4001434
+      }
+    },
+    {
+      "id": "15",
+      "name": "Pitstop 15",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.4819829,
+        "longitude": -0.118776
+      },
+      "vendCoord": null
     }
   ],
   "profile":{
