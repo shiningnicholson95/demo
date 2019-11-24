@@ -235,6 +235,90 @@
         "longitude": -0.118776
       },
       "vendCoord": null
+    },
+    {
+      "id": "16",
+      "name": "Pitstop 16",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.447267,
+        "longitude": 0.149849
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "17",
+      "name": "Pitstop 17",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5215205,
+        "longitude": -0.4537434
+      }
+    },
+    {
+      "id": "18",
+      "name": "Pitstop 18",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.48159829,
+        "longitude": -0.11955176
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "19",
+      "name": "Pitstop 19",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 45,
+      "distByCar": 10,
+      "dist": 1.9,
+      "cubeCoord": {
+        "latitude": 51.4164263,
+        "longitude": 0.1051841
+      },
+      "vendCoord": null
+    },
+    {
+      "id": "20",
+      "name": "Pitstop 20",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 50,
+      "distByCar": 25,
+      "dist": 2,
+      "cubeCoord": null,
+      "vendCoord": {
+        "latitude": 51.5900105,
+        "longitude": -0.4001234
+      }
+    },
+    {
+      "id": "21",
+      "name": "Pitstop 21",
+      "addr": "Place, 123 Street, City, XYZ 989",
+      "favourite": false,
+      "distByWalk": 25,
+      "distByCar": 5,
+      "dist": 1,
+      "cubeCoord": {
+        "latitude": 51.4819819,
+        "longitude": -0.128776
+      },
+      "vendCoord": null
     }
   ],
   "profile":{
