@@ -1,7 +1,7 @@
 {
   "products": [
     { "id": "1",
-      "img": "https://cdn.imgbin.com/25/4/22/imgbin-quaker-instant-oatmeal-breakfast-cereal-quaker-oats-company-nut-banana-k9MihuYEieRccH5ETZ9h9xD30.jpg",
+      "img": "https://i.ibb.co/Twn33BL/cheerios.png",
       "name": "cheerios",
       "price": 2,
       "favourite": false,
@@ -9,7 +9,7 @@
       "dimension": "6 X 15g" 
     },
     { "id": "2",
-      "img": "http://pngimg.com/uploads/cocacola/cocacola_PNG0.png",
+      "img": "https://i.ibb.co/F7KQkMh/coke.png",
       "name": "coke",
       "price": 3,
       "favourite": false,
@@ -17,7 +17,7 @@
       "dimension": "3 X 100ml" 
     },
     { "id": "3",
-      "img": "http://pluspng.com/img-png/oreo-png-hd-https-upload-wikimedia-org-wikipedia-en-9-97-oreo-cookie-logo-png-516.png",
+      "img": "https://i.ibb.co/VwSfmBs/oreo.png",
       "name": "oreo",
       "price": 2,
       "favourite": false,
@@ -233,90 +233,6 @@
       "cubeCoord": {
         "latitude": 51.4819829,
         "longitude": -0.118776
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "16",
-      "name": "Pitstop 16",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 45,
-      "distByCar": 10,
-      "dist": 1.9,
-      "cubeCoord": {
-        "latitude": 51.447267,
-        "longitude": 0.149849
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "17",
-      "name": "Pitstop 17",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 50,
-      "distByCar": 25,
-      "dist": 2,
-      "cubeCoord": null,
-      "vendCoord": {
-        "latitude": 51.5215205,
-        "longitude": -0.4537434
-      }
-    },
-    {
-      "id": "18",
-      "name": "Pitstop 18",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 25,
-      "distByCar": 5,
-      "dist": 1,
-      "cubeCoord": {
-        "latitude": 51.48159829,
-        "longitude": -0.11955176
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "19",
-      "name": "Pitstop 19",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 45,
-      "distByCar": 10,
-      "dist": 1.9,
-      "cubeCoord": {
-        "latitude": 51.4164263,
-        "longitude": 0.1051841
-      },
-      "vendCoord": null
-    },
-    {
-      "id": "20",
-      "name": "Pitstop 20",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 50,
-      "distByCar": 25,
-      "dist": 2,
-      "cubeCoord": null,
-      "vendCoord": {
-        "latitude": 51.5900105,
-        "longitude": -0.4001234
-      }
-    },
-    {
-      "id": "21",
-      "name": "Pitstop 21",
-      "addr": "Place, 123 Street, City, XYZ 989",
-      "favourite": false,
-      "distByWalk": 25,
-      "distByCar": 5,
-      "dist": 1,
-      "cubeCoord": {
-        "latitude": 51.4819819,
-        "longitude": -0.128776
       },
       "vendCoord": null
     }
