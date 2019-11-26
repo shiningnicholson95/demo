@@ -272,26 +272,26 @@
   "profile":{
     "uid": 0,
     "name": "John Smith",
-    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "img": "https://i.ibb.co/5YMmScc/person.png",
     "URPoints": 123,
     "URPointsWorth": 25
   },
   "posts":[
     {
       "id": 1,
-      "src": "https://images.pexels.com/photos/2284178/pexels-photo-2284178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=320",
+      "src": "https://i.ibb.co/qpdjPFx/home-sale.png",
       "postTitle": "UR Lucky discount (Events)",
       "postDescriptions": "Come have a coffee and snack 30% off. There is a vending machine 200m away. Valid before 3:30pm"
     },
     {
       "id": 2,
-      "src": "https://images.pexels.com/photos/2284178/pexels-photo-2284178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=320",
+      "src": "https://i.ibb.co/FmN3x8k/home-less.png",
       "postTitle": "URKind Donations",
       "postDescriptions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
     },
     {
       "id": 3,
-      "src": "https://images.pexels.com/photos/2284178/pexels-photo-2284178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=320",
+      "src": "https://i.ibb.co/qpdjPFx/home-sale.png",
       "postTitle": "UR coupon",
       "postDescriptions": "Get coupon codes for popular branch. Terms and Conditions apply"
     }
