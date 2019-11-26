@@ -23,6 +23,38 @@
       "favourite": false,
       "category": "Snacks",
       "dimension": "9 X 50g"
+    },
+    { "id": "4",
+      "img": "https://i.ibb.co/5FGyzLt/redbull.png",
+      "name": "redbull",
+      "price": 4,
+      "favourite": false,
+      "category": "Energy Drinks",
+      "dimension": "4 X 70ml"
+    },
+    { "id": "5",
+      "img": "https://i.ibb.co/NyMdy6D/twix.png",
+      "name": "twix",
+      "price": 1,
+      "favourite": false,
+      "category": "Energy Bars",
+      "dimension": "2 X 50g"
+    },
+    { "id": "7",
+      "img": "https://i.ibb.co/MZRbRD8/water.png",
+      "name": "water",
+      "price": 3,
+      "favourite": false,
+      "category": "Drinks",
+      "dimension": "10 X 100ml"
+    },
+    { "id": "8",
+      "img": "https://i.ibb.co/JH73YVM/wetabix.png",
+      "name": "wetabix",
+      "price": 2,
+      "favourite": false,
+      "category": "Veggie",
+      "dimension": "8 X 75g"
     }
   ],
   "pitstops": [
